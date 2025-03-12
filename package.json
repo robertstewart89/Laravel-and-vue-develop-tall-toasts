@@ -16,7 +16,7 @@
         "@rollup/plugin-node-resolve": "^13.3.0",
         "core-js": "^3.41.0",
         "fs-extra": "^10.1.0",
-        "get-value": "^3.0.1",
+        "get-value": "^4.0.1",
         "md5": "^2.3.0",
         "rollup": "^2.79.2",
         "rollup-plugin-filesize": "^9.1.2",
