@@ -12,7 +12,7 @@
         "@babel/preset-env": "^7.28.5",
         "@rollup/plugin-alias": "^3.1.9",
         "@rollup/plugin-babel": "^5.3.1",
-        "@rollup/plugin-commonjs": "^22.0.2",
+        "@rollup/plugin-commonjs": "^28.0.9",
         "@rollup/plugin-node-resolve": "^13.3.0",
         "core-js": "^3.46.0",
         "fs-extra": "^10.1.0",
